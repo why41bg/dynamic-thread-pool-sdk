@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @className: IDynamicThreadPoolService
- * @description: TODO 类描述
+ * @description: 动态线程池服务接口
  * @author: 魏弘宇
  * @date: 2024/5/20
  **/

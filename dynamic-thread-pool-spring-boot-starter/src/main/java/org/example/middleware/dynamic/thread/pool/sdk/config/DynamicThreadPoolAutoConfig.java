@@ -27,7 +27,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * @Classname DynamicThreadPoolAutoConfig
- * @Description TODO 类描述
+ * @Description 动态线程池自动配置类
  * @Author 魏弘宇
  * @Date 2024/5/20 12:13
  */

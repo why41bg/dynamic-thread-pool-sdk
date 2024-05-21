@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * @className: RedisRegistry
- * @description: TODO 类描述
+ * @description: Redis注册中心实现类
  * @author: 魏弘宇
  * @date: 2024/5/21
  **/

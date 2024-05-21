@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @className: IRegistry
- * @description: TODO 类描述
+ * @description: 注册中心接口类
  * @author: 魏弘宇
  * @date: 2024/5/21
  **/

@@ -12,12 +12,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import javax.annotation.Resource;
 import java.util.concurrent.CountDownLatch;
 
-/**
- * @Classname ApiTest
- * @Description TODO 类描述
- * @Author 魏弘宇
- * @Date 2024/5/20 16:04
- */
 @Slf4j
 @RunWith(SpringRunner.class)
 @SpringBootTest

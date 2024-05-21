@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @className: DynamicThreadPoolAutoProperties
- * @description: TODO 类描述
+ * @description: 动态线程池自动配置属性类
  * @author: 魏弘宇
  * @date: 2024/5/21
  **/
@@ -14,7 +14,7 @@ public class DynamicThreadPoolAutoProperties {
     /** 状态；open = 开启、close 关闭 */
     private boolean enable;
     /** redis host */
-    private String host = "20.127.228.106";
+    private String host = "127.0.0.1";
     /** redis port */
     private int port = 6379;
     /** 账密 */

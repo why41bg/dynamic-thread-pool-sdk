@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @Classname ThreadPoolConfigProperties
- * @Description TODO 类描述
+ * @Description 线程池配置属性类
  * @Author 魏弘宇
  * @Date 2024/5/20 15:59
  */

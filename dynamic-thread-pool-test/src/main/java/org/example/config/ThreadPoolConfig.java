@@ -10,7 +10,7 @@ import java.util.concurrent.*;
 
 /**
  * @Classname ThreadPoolConfig
- * @Description TODO 类描述
+ * @Description 线程池配置类
  * @Author 魏弘宇
  * @Date 2024/5/20 15:58
  */

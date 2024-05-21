@@ -1,11 +1,11 @@
 package org.example.middleware.dynamic.thread.pool.sdk.domain.model.entity;
 
 /**
- * @className: ThreadPoolConfigEntity
- * @description: 线程池配置实体类
- * @author: 魏弘宇
- * @date: 2024/5/20
- **/
+ * @Classname ThreadPoolConfigEntity
+ * @Description 线程池配置实体类
+ * @Author 魏弘宇
+ * @Date 2024/5/21 12:43
+ */
 public class ThreadPoolConfigEntity {
 
     /**
