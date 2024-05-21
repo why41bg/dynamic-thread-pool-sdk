@@ -69,7 +69,6 @@ public class DynamicThreadPoolService implements IDynamicThreadPoolService{
         }
 
         return threadPoolConfigVO;
-
     }
 
     @Override
