@@ -1,4 +1,5 @@
-🎉 本项目是一个动态化线程池组件，包括如下功能：
-1. 使用 Redis 作为注册中心，定时上报线程池配置参数
-2. 监听注册中心的线程池配置更新消息，实现动态化配置线程池参数
-3. 提供简易的前端控制中心，实时检测线程池运行时负载
+🎉 This project is a dynamic thread pool component with the following features:
+
+1. Use Redis as the registration center to regularly report thread pool configuration parameters.
+2. Realize dynamic configuration of thread pool parameters by monitoring the thread pool configuration update message of the registration center.
+3. Provides a simple front-end control center to detect the thread pool runtime load in real time.
